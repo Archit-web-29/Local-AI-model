@@ -15,3 +15,6 @@ These are all the mmodels ranked on overall intelligence:
 6. Vortexa AI-- V1 --2048 Tokens RAG
 
 Vortexa AI excels in the flied of Technology. The model "Vortexa AI-- V4 Advanced --Mathemtical Reasoning" excels in Maths. 
+
+You would need to still install the backend to Vortexa AI. This is the hugging face link: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
+Also install all the libraries required. 
